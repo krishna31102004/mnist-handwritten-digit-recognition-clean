@@ -61,7 +61,6 @@ Handwritten digit recognition is a classic problem in the field of machine learn
    ```bash
    pip install -r requirements.txt
    ```
-   *(Make sure to create a `requirements.txt` file listing dependencies such as NumPy, Matplotlib, Scikit-Learn, TensorFlow, seaborn, and others if not already provided.)*
 
 ## Usage
 
@@ -100,12 +99,8 @@ Additional evaluation results are available in the form of confusion matrices an
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or further discussion, please contact Krishna Balaji at [your.email@example.com] or visit my [GitHub profile](https://github.com/krishna31102004).
+For any questions or further discussion, please contact Krishna Balaji at [krishna311004@gmail.com] or visit my [GitHub profile](https://github.com/krishna31102004).
 
 ```
