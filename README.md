@@ -91,35 +91,41 @@ The following summarizes the performance (accuracy) of the models on the MNIST t
 
 Additional evaluation results are available in the form of confusion matrices and model accuracy bar charts, which are automatically generated when you run the evaluation script.
 
+Below is the Deployment section in Markdown format that you can copy directly into your README.md file:
+
+```markdown
 ## Deployment
 
-Deployment via Google Colab
+### Deployment via Google Colab
+
 You can run this project interactively in a free, cloud-based environment using Google Colab. Follow these steps to launch the project:
 
-Push your project to GitHub: Ensure your repository is public so Google Colab can access it.
+1. **Push your project to GitHub:**  
+   Ensure your repository is public so Google Colab can access it.
 
-Open Google Colab:
+2. **Open Google Colab:**  
+   Go to [Google Colab](https://colab.research.google.com/).
 
-Go to Google Colab.
+3. **Open your notebook via GitHub Integration:**  
+   Click on **File → Open notebook**, then select the **GitHub** tab.
 
-Open your notebook via GitHub Integration:
+4. **Enter the URL of your repository:**  
+   `https://github.com/krishna31102004/mnist-handwritten-digit-recognition-clean`
 
-Click on File → Open notebook, then select the GitHub tab.
+5. **Select the Jupyter Notebook you want to run:**  
+   For example, `demo.ipynb` if you have created one that contains your interactive demo.
 
-Enter the URL of your repository:
-https://github.com/krishna31102004/mnist-handwritten-digit-recognition-clean
+6. **Run the Notebook:**  
+   If needed, add and run a cell at the top to install dependencies:
+   ```bash
+   !pip install -r requirements.txt
+   ```
+   Then, run the notebook cells to interact with your code.
 
-Select the Jupyter Notebook you want to run (for example, demo.ipynb if you have created one that contains your interactive demo).
+*(Ensure that `demo.ipynb` exists in your repository or update the link accordingly.)*
 
-Run the Notebook:
 
-If needed, add and run a cell at the top to install dependencies:
-  ```bash
-python3 !pip install -r requirements.txt
-```
-Then run the notebook cells to interact with your code.
-
-(Ensure that demo.ipynb exists in your repository or update the link accordingly.)
+Simply copy and paste this section into your README.md file. Let me know if you need further changes!
 
 ## Contributing
 
