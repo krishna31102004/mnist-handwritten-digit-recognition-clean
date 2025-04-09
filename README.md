@@ -93,7 +93,34 @@ Additional evaluation results are available in the form of confusion matrices an
 
 ## Deployment
 
-*(Deployment details will be added later if you choose to create an interactive demo or deploy a web application.)*
+Deployment via Google Colab
+You can run this project interactively in a free, cloud-based environment using Google Colab. Follow these steps to launch the project:
+
+Push your project to GitHub: Ensure your repository is public so Google Colab can access it.
+
+Open Google Colab:
+
+Go to Google Colab.
+
+Open your notebook via GitHub Integration:
+
+Click on File → Open notebook, then select the GitHub tab.
+
+Enter the URL of your repository:
+https://github.com/krishna31102004/mnist-handwritten-digit-recognition-clean
+
+Select the Jupyter Notebook you want to run (for example, demo.ipynb if you have created one that contains your interactive demo).
+
+Run the Notebook:
+
+If needed, add and run a cell at the top to install dependencies:
+
+python
+Copy
+!pip install -r requirements.txt
+Then run the notebook cells to interact with your code.
+
+(Ensure that demo.ipynb exists in your repository or update the link accordingly.)
 
 ## Contributing
 
