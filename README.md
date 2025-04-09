@@ -101,6 +101,5 @@ Contributions are welcome! If you have suggestions or improvements, please fork 
 
 ## Contact
 
-For any questions or further discussion, please contact Krishna Balaji via [E-Mail](krishna311004@gmail.com) or visit my [GitHub profile](https://github.com/krishna31102004).
+For any questions or further discussion, please E-Mail Krishna Balaji at krishna311004@gmail.com or visit my [GitHub profile](https://github.com/krishna31102004).
 
-```
