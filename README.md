@@ -93,7 +93,7 @@ Additional evaluation results are available in the form of confusion matrices an
 
 Below is the Deployment section in Markdown format that you can copy directly into your README.md file:
 
-```markdown
+
 ## Deployment
 
 ### Deployment via Google Colab
