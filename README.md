@@ -1,6 +1,3 @@
-Below is an example README.md file in Markdown format that you can use in your repository. It clearly describes your project's purpose, contents, setup instructions, usage guidelines, and results—all of which make it an impressive resume and portfolio piece.
-
-```markdown
 # Handwritten Digit Recognition Using Machine Learning
 
 This repository contains a comprehensive project that implements and compares multiple machine learning models to perform handwritten digit recognition on the MNIST dataset. The project includes implementations using traditional machine learning techniques (Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors) as well as a simple Neural Network using TensorFlow/Keras.
