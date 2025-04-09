@@ -114,10 +114,9 @@ Select the Jupyter Notebook you want to run (for example, demo.ipynb if you have
 Run the Notebook:
 
 If needed, add and run a cell at the top to install dependencies:
-
-python
-Copy
-!pip install -r requirements.txt
+  ```bash
+python3 !pip install -r requirements.txt
+```
 Then run the notebook cells to interact with your code.
 
 (Ensure that demo.ipynb exists in your repository or update the link accordingly.)
