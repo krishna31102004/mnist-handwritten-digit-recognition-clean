@@ -125,8 +125,6 @@ You can run this project interactively in a free, cloud-based environment using 
 *(Ensure that `demo.ipynb` exists in your repository or update the link accordingly.)*
 
 
-Simply copy and paste this section into your README.md file. Let me know if you need further changes!
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
