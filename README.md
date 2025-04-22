@@ -24,7 +24,7 @@ Handwritten digit recognition is a classic problem in the field of machine learn
 - **Images:**
   - Sample images, model confusion matrices, and the neural network architecture diagram (e.g., `mnist_sample.png`, `nn_architecture.png`, `logistic_regression.png`, etc.).
 - **Documentation:**
-  - LaTeX report (`report.tex`) that describes the project in detail.
+  - LaTeX report (`CSE475-HonorsContract-Balaji-Krishna.pdf`) that describes the project in detail.
 - **.gitignore:**
   - Ensures that large or environment-specific files (like the virtual environment) are excluded.
 
